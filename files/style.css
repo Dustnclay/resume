@@ -9,15 +9,15 @@ embed{
     margin-bottom: 2%;
     margin-left: auto; 
     margin-right: auto;
-    width:50%;
+    width:96%;
     height:100%;
 
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (min-width: 900px) {
     embed{    
         margin-top: 2%;
         margin-bottom: 2%;
-        width:96%
+        width:50%
     }
   }
